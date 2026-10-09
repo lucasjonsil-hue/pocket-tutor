@@ -32,7 +32,7 @@ git clone https://github.com/lucasjonsil-hue/pocket-tutor $env:TEMP\pocket-tutor
 
 ### C. Free plan — Claude Project
 1. Create a Project called **Pocket Tutor**.
-2. Open [`skills/pocket-tutor/SKILL.md`](skills/pocket-tutor/SKILL.md), copy everything, paste it into the Project's instructions.
+2. Paste [`SKILL.md`](skills/pocket-tutor/SKILL.md) into the Project's instructions, then add [`LEARNING-PROMPTS.md`](skills/pocket-tutor/LEARNING-PROMPTS.md) as a Project file.
 3. Chat inside that Project.
 
 ---
