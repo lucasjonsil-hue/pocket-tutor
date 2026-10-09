@@ -43,7 +43,8 @@ Pocket Tutor/
 
 1. Pick the subject from what they said. Unclear → the one with the nearest dated item in its
    DEADLINES.md. Never show a menu.
-2. Read LEARNER.md, LEARNING-PROMPTS.md if present, then the subject's SUBJECT.md (it lists what else to
+2. Read LEARNER.md, LEARNING-PROMPTS.md (the tutor home's copy if present, otherwise the one bundled next to
+   this SKILL.md), then the subject's SUBJECT.md (it lists what else to
    read and in what order). Default order otherwise: COURSE-MAP.md, DEADLINES.md, the top of progress.md
    (section 9 keeps it short), prompts/.
 3. Date math: current week, next deadline, days to the next exam, weakest topic on it. **Name every dated

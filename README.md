@@ -7,6 +7,7 @@ Any subject. It learns how you learn and gets better the more you use it.
 - **Recheck list** — anything you miss comes back later in a new scenario.
 - **Game mode** — say "game mode" on low-energy nights: hearts, streaks, bosses, a career ladder.
 - **Pen mode** — write answers on paper, send a photo, get graded.
+- **Master learning prompts** — the teaching playbook ([LEARNING-PROMPTS.md](skills/pocket-tutor/LEARNING-PROMPTS.md)), built in.
 
 It's for *learning*, not doing your homework for you.
 
